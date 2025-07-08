@@ -1,0 +1,72 @@
+body {
+  background-color: #f0f8ff;
+  font-family: Arial, sans-serif;
+  padding: 20px;
+}
+
+h1 {
+  color: #2e8b57;
+  text-align: center;
+}
+
+p {
+  font-size: 18px;
+  text-align: justify;
+}
+
+ul {
+  line-height: 2em;
+}
+
+.hobby-img {
+  width: 300px;
+  border-radius: 10px;
+  display: block;
+  margin: 20px auto;
+}
+
+table {
+  width: 100%;
+  border-collapse: collapse;
+  margin: 20px 0;
+}
+
+table, th, td {
+  border: 1px solid #aaa;
+}
+
+th, td {
+  padding: 10px;
+  text-align: center;
+}
+
+.flag {
+  width: 100px;
+}
+
+a {
+  display: inline-block;
+  margin-top: 20px;
+  color: #1e90ff;
+  text-decoration: none;
+}
+
+a:hover {
+  color: #ff4500;
+}
+
+button {
+  display: block;
+  margin-top: 20px;
+  padding: 10px;
+  background-color: #2e8b57;
+  color: white;
+  border: none;
+  border-radius: 5px;
+  cursor: pointer;
+}
+
+#mensagem {
+  margin-top: 10px;
+  font-weight: bold;
+}
